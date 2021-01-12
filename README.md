@@ -1,6 +1,6 @@
 # Xylophone
 
-A new Flutter project.
+A Xylophone Flutter project app that play different sounds.
 
 ## Getting Started
 
