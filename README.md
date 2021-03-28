@@ -1,8 +1,15 @@
-# What is Xylophone App
+<h1 align="center">Xylophone | Flutter App</h1>
 
+<img src="" align="center">
+
+<h2 align="center">Screenshot</h2>
+
+<img src="" align="center">
+
+# What is Xylophone App
 A Xylophone is an Flutter app that plays different sounds using.
 
-##Requirments
+## Requirements
 
 * Flutter SDK
 * Android Studio/VS Code IDE
