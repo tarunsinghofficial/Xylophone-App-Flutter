@@ -1,10 +1,14 @@
-# Xylophone
+# What is Xylophone App
 
-A Xylophone Flutter project app that play different sounds.
+A Xylophone is an Flutter app that plays different sounds using.
+
+##Requirments
+
+* Flutter SDK
+* Android Studio/VS Code IDE
+* Flutter and Dart Installed
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
@@ -14,3 +18,12 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Contributions
+Feel free to contribute to Xylophone App Project.
+
+## Author
+App made by [Tarun Singh](https://github.com/tarunsinghofficial)
+
+## License
+**Xylophone** is MIT Licensed. See [LICENSE](License.txt) for more info.
