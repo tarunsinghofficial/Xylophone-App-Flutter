@@ -1,10 +1,10 @@
 <h1 align="center">Xylophone | Flutter App</h1>
 
-<img src="" align="center">
-
 <h2 align="center">Screenshot</h2>
 
-<img src="" align="center">
+<p align="center">
+  <img src="screenshot/Screenshot_20210328-190753.jpg" width="250"> | <img src="screenshot/Screenshot_20210328-190748.jpg" width="250">
+</p>
 
 # What is Xylophone App
 A Xylophone is an Flutter app that plays different sounds using.
