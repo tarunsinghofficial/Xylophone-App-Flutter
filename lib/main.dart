@@ -38,7 +38,7 @@ class MyApp extends StatelessWidget {
                 buildKey(color: Colors.orange, sN: 6),
                 buildKey(color: Colors.red, sN: 7),
               ]
-              // Expanded(
+              // Expand(
               //   child: FlatButton(
               //     color: Colors.yellow,
               //     onPressed: () {
