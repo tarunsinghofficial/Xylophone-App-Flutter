@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
 
   Expanded buildKey({Color color, int sN}) {
     return Expanded(
-      child: FlatButton(
+      child: RaisedButton(
         color: color,
         onPressed: () {
           playSound(sN);
@@ -30,15 +30,15 @@ class MyApp extends StatelessWidget {
           child: Column(
               crossAxisAlignment: CrossAxisAlignment.stretch,
               children: <Widget>[
-                buildKey(color: Colors.red, sN: 1),
-                buildKey(color: Colors.orange, sN: 2),
-                buildKey(color: Colors.yellow, sN: 3),
+                buildKey(color: Colors.purple, sN: 1),
+                buildKey(color: Colors.blue, sN: 2),
+                buildKey(color: Colors.teal, sN: 3),
                 buildKey(color: Colors.green, sN: 4),
-                buildKey(color: Colors.teal, sN: 5),
-                buildKey(color: Colors.blue, sN: 6),
-                buildKey(color: Colors.purple, sN: 7),
+                buildKey(color: Colors.yellow, sN: 5),
+                buildKey(color: Colors.orange, sN: 6),
+                buildKey(color: Colors.red, sN: 7),
               ]
-              // Expanded(
+              // Expand(
               //   child: FlatButton(
               //     color: Colors.yellow,
               //     onPressed: () {
